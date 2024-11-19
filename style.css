@@ -1,0 +1,44 @@
+
+body {
+
+    background-image: url("Backround img.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.responsive-image {
+    width: 100%;
+    height: auto;
+}
+
+.fixed-size {
+    width: 300px; 
+    height: 200px; 
+}
+
+header {
+    background: #5283a1;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+nav {
+    margin: 20px 0;
+}
+nav a {
+    margin: 0 15px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
