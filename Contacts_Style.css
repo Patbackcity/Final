@@ -10,7 +10,7 @@ h1 {
 }
 .container {
     max-width: 600px;
-    margin: auto;
+    margin: auto; 
     background: white;
     padding: 20px;
     border-radius: 8px;
@@ -31,7 +31,8 @@ h1 {
 }
 
 header {
-    color: #161414;
+    background: #5283a1;
+    color: #ffffff;
     padding: 20px 0;
     text-align: center;
 }
@@ -42,6 +43,6 @@ nav {
 }
 nav a {
     margin: 0 15px;
-    color: #0c0b0b;
+    color: #ffffff;
     text-decoration: none;
 }
